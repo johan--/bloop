@@ -6,9 +6,9 @@
     "engines": {
       "node": ">=0.10"
     },
-    "homepage":"https://github.com/rexstjohn/bloop", 
+    "homepage":"https://github.com/mashery/bloop", 
     "license": "MIT",
-    "repository": { "type": "git", "url": "https://github.com/rexstjohn/bloop" }, 
+    "repository": { "type": "git", "url": "https://github.com/mashery/bloop" }, 
     "devDependencies": { "should": ">= 0.0.1" },
     "scripts": { "test": "make test" },
     "dependencies": {
@@ -16,7 +16,7 @@
         "promptly":"0.2.x"
     },
     "bugs":{ 
-        "url" : "https://github.com/rexstjohn/bloop/issues"
+        "url" : "https://github.com/mashery/bloop/issues"
     },
     "os" : [ "darwin", "!linux", "!win32" ],
     "bin": {
