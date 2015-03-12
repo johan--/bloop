@@ -1,5 +1,5 @@
 # Bloop
-Bloop is a CLI tool for help developers work on Intel Edison. Bleep is the partner library which you can use on the Edison board itself. Bloop is specifically meant to help automate basic tasks revolving around connecting to Edison, getting a terminal, copying files to it and SSH-ing into it.
+Bloop is a CLI tool for help developers work on Intel Edison. Bloop is specifically meant to help automate basic tasks revolving around connecting to Edison, getting a terminal, copying files to it and SSH-ing into it.
 
 I have built bloop to function, by default, as though there were a single Edison on your local network. Most of the connection commands will scan for and connect to the first Edison found. In the event that you have multiple Edisons all on the same network, I have provided the ability to scan and connect with those Edisons generally via an -e flag.
 
